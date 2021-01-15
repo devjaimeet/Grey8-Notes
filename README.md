@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/FormidableLabs/spectacle/main/docs/src/assets/logo_spectacle.png" width=250></p>
-<h2 align="center">Spectacle</h2>
+<h2 align="center">Grey8 Notes</h2>
 <p align="center">
 <strong>✨ A Core PHP and GUI based Advance Note-taking Web App ✨</strong>
 <br><br>
