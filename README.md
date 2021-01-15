@@ -1,8 +1,7 @@
-# NotesGrip---Advance-Notestaking-App
 <p align="center"><img src="https://raw.githubusercontent.com/FormidableLabs/spectacle/main/docs/src/assets/logo_spectacle.png" width=250></p>
 <h2 align="center">Spectacle</h2>
 <p align="center">
-<strong>✨ A ReactJS based Presentation Library ✨</strong>
+<strong>✨ A Core PHP and GUI based Advance Note-taking Web App ✨</strong>
 <br><br>
 <a href="https://npmjs.com/package/spectacle"><img src="https://img.shields.io/npm/dm/spectacle.svg"></a>
 <a href="https://npmjs.com/package/spectacle"><img src="https://img.shields.io/npm/v/spectacle.svg"></a>
